@@ -6,15 +6,25 @@
 
 2. image
     -->kitematic/hello-world-nginx
+    ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/akundocker.PNG)
 
 3. langkah untuk menjalankan docker
-    -->buka docker-quickstart-terminal.ico
+    -->buka docker
    untuk pull image
     ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/Capture.PNG)
 
-    -->tuliskan perintah pada docker terminal
+    -->pull image
         "docker pull kitematic/hello-world-nginx"
+        ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/image.PNG)
    menjalankan container
     -->"docker run kitematic/hello-world-nginx"
+    ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/menjalankandocker.PNG)
+
    menghentikan container
     -->"docker kill kitematic/hello-world-nginx"
+    ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/menghentikancontainer.PNG)
+
+    atau
+    ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/menghentikancontainer2.PNG)
+
+
