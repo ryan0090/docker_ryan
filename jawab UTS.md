@@ -27,4 +27,7 @@
     atau
     ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/menghentikancontainer2.PNG)
 
+4.push image docker
+    ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/pushgithub.PNG)
+
 
