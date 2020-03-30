@@ -10,7 +10,7 @@
 3. langkah untuk menjalankan docker
     -->buka docker-quickstart-terminal.ico
    untuk pull image
-    ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/Capture.png)
+    ![~](https://github.com/ryan0090/docker_ryan/blob/master/gambar/Capture.PNG)
 
     -->tuliskan perintah pada docker terminal
         "docker pull kitematic/hello-world-nginx"
